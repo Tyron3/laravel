@@ -1,0 +1,1 @@
+<!-- add all html code for fixed footer -->
